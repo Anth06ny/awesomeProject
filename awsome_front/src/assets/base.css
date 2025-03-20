@@ -1,0 +1,21 @@
+/* Réinitialisation des styles */
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+/* Typographie globale */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  background: none;
+}
